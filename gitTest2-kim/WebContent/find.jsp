@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-검색화면
+검색화면추가
 </body>
 </html>
