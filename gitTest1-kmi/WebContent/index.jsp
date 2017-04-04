@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-share project test kmi
+share project test kmi2
 </body>
 </html>
